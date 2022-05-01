@@ -95,8 +95,13 @@ const promptQuestions = () => {
     ]);
 };
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    console.log(data)
+     fs.writeFileSync(path.join(process.cwd(), fileName), data,(err) => {
+         if (err) throw err;
 
+     });
+}
 // TODO: Create a function to initialize app
 function init() {}
 
