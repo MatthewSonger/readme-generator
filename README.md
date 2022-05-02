@@ -2,7 +2,7 @@
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   [License Link](http://choosealicense.com/licenses)
 
-  # Test
+  # Readme Generator
 
 
   ## Table of Contents
@@ -15,19 +15,19 @@
   * [GitHub Username](#github-username)
   * [E-mail Address](#e-mail-address)
   ## Description
-  test
+  Generates a professional readme
   
   ## Installation Instructions
   undefined
   
   ## Usage
- test
+ Used to easily create a readme file
   
   ## Contributing
-  test
+  n/a
   
   ## Tests
-  test
+  n/a
   
   ## Licensing
   MIT
