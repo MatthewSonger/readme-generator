@@ -2,7 +2,7 @@
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   [License Link](http://choosealicense.com/licenses)
 
-  # Readme Generator
+  # Professional README Generator
 
 
   ## Table of Contents
@@ -15,16 +15,16 @@
   * [GitHub Username](#github-username)
   * [E-mail Address](#e-mail-address)
   ## Description
-  Generates a professional readme
+  Allows a user to create a professional README.md file using Node.js
   
   ## Installation Instructions
   undefined
   
   ## Usage
- Used to easily create a readme file
+ Used to easily create a professional README.md file.
   
   ## Contributing
-  n/a
+  Fork repo and make a PR for any changes.
   
   ## Tests
   n/a
