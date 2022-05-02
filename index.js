@@ -57,7 +57,7 @@ const promptQuestions = () => {
     {
         type: 'list',
         name: 'license',
-        message: 'Select a license that applies.',
+        message: 'Select a license that applies or choose None.',
         choices: [{
             name:'GNU AGPLv3',
             value:'GNU_APLv3'},

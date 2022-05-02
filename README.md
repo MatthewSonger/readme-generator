@@ -1,5 +1,5 @@
 
-  [Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   [License Link](http://choosealicense.com/licenses)
 
   # Test
@@ -15,19 +15,19 @@
   * [GitHub Username](#github-username)
   * [E-mail Address](#e-mail-address)
   ## Description
-  Test
+  test
   
   ## Installation Instructions
   undefined
   
   ## Usage
- Test
+ test
   
   ## Contributing
-  Test
+  test
   
   ## Tests
-  Test
+  test
   
   ## Licensing
   MIT
